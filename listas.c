@@ -27,6 +27,7 @@ int main(void)
                 break;
             default:
                 printf(" xd\n");
+                break;
         }
     }while(opcion != 5);
 
@@ -71,3 +72,8 @@ void recorrer()
     }
     printf("\n");
 }
+
+
+
+
+
